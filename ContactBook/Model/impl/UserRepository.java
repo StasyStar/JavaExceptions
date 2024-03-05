@@ -1,13 +1,13 @@
-package seminar3.hw.Model.impl;
+package ContactBook.Model.impl;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import seminar3.hw.Exceptions.DataSaveException;
-import seminar3.hw.Model.Contact;
-import seminar3.hw.Model.Repository;
+import ContactBook.Exceptions.DataSaveException;
+import ContactBook.Model.Contact;
+import ContactBook.Model.Repository;
 
 public class UserRepository implements Repository {
     @Override

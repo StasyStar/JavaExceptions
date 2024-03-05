@@ -1,7 +1,7 @@
-package seminar3.hw.Controller;
+package ContactBook.Controller;
 
-import seminar3.hw.Model.Contact;
-import seminar3.hw.Model.Repository;
+import ContactBook.Model.Contact;
+import ContactBook.Model.Repository;
 
 public class Controller {
     private final Repository repository;

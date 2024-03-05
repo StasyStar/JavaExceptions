@@ -1,4 +1,4 @@
-package seminar3.hw.Exceptions;
+package ContactBook.Exceptions;
 
 import java.io.IOException;
 

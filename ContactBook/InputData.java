@@ -1,11 +1,11 @@
-package seminar3.hw;
+package ContactBook;
 
 import java.util.Scanner;
 
-import seminar3.hw.Exceptions.FormatDateException;
-import seminar3.hw.Exceptions.FormatGenderException;
-import seminar3.hw.Exceptions.NotAllDataException;
-import seminar3.hw.Model.Contact;
+import ContactBook.Exceptions.FormatDateException;
+import ContactBook.Exceptions.FormatGenderException;
+import ContactBook.Exceptions.NotAllDataException;
+import ContactBook.Model.Contact;
 
 public class InputData {
     public InputData() {}

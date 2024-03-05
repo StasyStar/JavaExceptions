@@ -1,4 +1,4 @@
-package seminar3.hw.Model;
+package ContactBook.Model;
 
 public class Contact {
     private String lastName;

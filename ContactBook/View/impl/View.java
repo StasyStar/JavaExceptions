@@ -1,11 +1,11 @@
-package seminar3.hw.View.impl;
+package ContactBook.View.impl;
 
 import java.util.Scanner;
 
-import seminar3.hw.InputData;
-import seminar3.hw.Controller.Controller;
-import seminar3.hw.Model.Contact;
-import seminar3.hw.View.Viewable;
+import ContactBook.InputData;
+import ContactBook.Controller.Controller;
+import ContactBook.Model.Contact;
+import ContactBook.View.Viewable;
 
 public class View implements Viewable{
     private final Controller controller;

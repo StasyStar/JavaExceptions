@@ -1,4 +1,4 @@
-package seminar3.hw.View;
+package ContactBook.View;
 
 public interface Viewable {
     void run();

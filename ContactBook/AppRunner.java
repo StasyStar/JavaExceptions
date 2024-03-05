@@ -1,9 +1,9 @@
-package seminar3.hw;
+package ContactBook;
 
-import seminar3.hw.Controller.Controller;
-import seminar3.hw.Model.Repository;
-import seminar3.hw.Model.impl.UserRepository;
-import seminar3.hw.View.impl.View;
+import ContactBook.Controller.Controller;
+import ContactBook.Model.Repository;
+import ContactBook.Model.impl.UserRepository;
+import ContactBook.View.impl.View;
 
 public class AppRunner {
     public static void run() {

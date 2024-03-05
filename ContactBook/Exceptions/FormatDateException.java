@@ -1,4 +1,4 @@
-package seminar3.hw.Exceptions;
+package ContactBook.Exceptions;
 
 public class FormatDateException extends Exception{
     public FormatDateException() {
